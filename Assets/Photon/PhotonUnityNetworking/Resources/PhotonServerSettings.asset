@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 09127329-b26a-4c07-b48a-9c9cf0a45025
+    AppIdFusion: 
+    AppIdChat: 09127329-b26a-4c07-b48a-9c9cf0a45025
+    AppIdVoice: 09127329-b26a-4c07-b48a-9c9cf0a45025
+    AppVersion: 1
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: us
+  PunLogging: 2
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - CantHearYou
+  - ChangeColour
+  - DisableTool
+  - EnableTool
+  - HeresWhy
+  - RPC_SetColor
+  - SetKinematicFalse
+  - SetKinematicTrue
+  - RpcAddRibbonPoint
+  - UpdateMeshColor
+  - ChangeBrushColor
+  - BrushAreaWithColor
+  - BrushStroke
+  - DisplayScreenshot
+  - PauseVideo
+  - PlayVideo
+  - PlayVideoFrame
+  - SyncProgress
+  - GoToSceen
+  - AddToMemory
+  - CamCapture
+  - RPC_GoToScene
+  - ShowRoom2
+  - displayall
+  - SetColor
+  - NoteCamCapture
+  - SetNote
+  - RPC_RenderTexture
+  - RPC_ChangeTexture
+  - RPC_ChangeTexture1
+  - RPC_showimage
+  - ToggleTeleportMarker
+  - RPC_SetParent
+  - RPC_SetREC
+  - ChangeStatus
+  - SetProgressUserIcon
+  - SetCameraID
+  - RPCUpdatePlayingFrame
+  - RPCUpdatePlayingStatus
+  - Mute
+  - RPC_BroadFollowing
+  - RPC_BroadUnfollow
+  - ChangeLayer
+  - RPC_SetLayer
+  - SetVideo
+  - ChangeBtnColor
+  - RPC_ResetTimer
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

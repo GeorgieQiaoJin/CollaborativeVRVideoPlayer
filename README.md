@@ -1,0 +1,5 @@
+# CollaborativeVRVideoPlayer
+
+We developed three system modes based on different VR video-based learning systems: a) Basic Mode (a plain VR video player without any collaboration tool); b) Non-Sync Mode (a collaborative VR video viewing system with individual timeline control); c) Sync Mode (a collaborative VR video viewing system with synchronous video control). Since a portion of the discussion in the DCVV approach occurs after watching the video, we included an after-video discussion platform in each mode.
+
+We implemented our systems with Unity 2020.3.20f1 and C# on Oculus Quest I. The multi-user features were implemented with Photon Platform. The connection and server were maintained by Photon. The 3D models and avatars used in the system were from Unity Asset store. We used Google AI to implement speech-to-text function. 

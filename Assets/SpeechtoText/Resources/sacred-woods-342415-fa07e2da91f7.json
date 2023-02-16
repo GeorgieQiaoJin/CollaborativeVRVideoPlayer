@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sacred-woods-342415",
+  "private_key_id": "fa07e2da91f721dfafffcc8a7f59508c6682330d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTTV+yVg+X/Lrk\n2S5/CYM+wWBUjFPZ2m4/m6jzd3TtJzXky+40p6N/LnjRPd5zPKw6QSogaDCaUh4U\nZb5SktU9ts9xvT1RpofDTrtdkb7g7Ns/JhEc+jeXsqD8gzAfa7g7hzOhTxNiHLSk\nfh212iUfXKoPLgaoGQyGySLN0X9zcsWOrtcd+DQtp0/JxHdLvSsJCHpgIqwPzs+d\nDGfGqW397OfV3kzIw2C+hJHZ9IruTHWgwXHHJ43VTCaU+SgCF0htQ2CxPVOrfA0m\nZ2Aowxew9lMwyC3OekMBHt6niYf49zZOzfI6Jty8QqFhHohl41pDQOyLbdMKBXHw\n/Z3+ysuxAgMBAAECggEAM29lORML7rJdiDF5yQC2ywLlgQ87pg8uwRsSEFnmw4fE\n7bHahUS9XssgK8cErEZ7oh6Us5jJI/eTTOHLZ2xIriIe8w/eqk6AQ8GZiFhe/3+I\niyGoDsa1255m47DHeQ6OpSbvIXgPPtW//z6X2tmEKdMzrkhE5IxcaT7y0ukJPj+j\nnUAwUUZBA36OAo3oclz2XzBPGU9kkWQKp1xRuusP/axt6WNksvTi/IcO+MjQiyP7\n++fscgjHdYxU6i7pk2dG13IybCRfaHNNw4OsGlmUdaVNTyhUHFeFW/Mv2BIbHOuT\nHlV1o/tYM5EhstYbJC03au5q0Ly1wEmvMfLWZnf3cQKBgQDwtNK0iawD6Gt+zs+3\npdWMWCQLymyUp8UtqUZLQppZvSRxOrWHuhpDEtTsNB6wULZPoT3l4sFwEZwiAE08\nM6DP7mLgvc6RmizVjHHxrlt3VmgtiuNVSlH1shGHFc4SjXGqGqsxnCJWuOTszJCp\nJH5U5HPDcZ20ByIAxZ93Rh2KzQKBgQDgukhEgvUg0jLam1k4QQagkOpdY21/Apwk\nbNFgAZ1zZplzrCHaHx2WQhx8nib3jJ3AtdfJzX77PePPhUj+j38FFstqfY28fG3A\nX8PJsJGoKkHX+PWw4pWvH+WYu4kuFw32ud0DD7Y+G3rDMyKY6pLoAG5LPyVvmZy7\nCk9l+WvMdQKBgQClHLRoSQOozpZmLsEHjYbVtWRMfjdLJWY5MyNX3sD4C6lizk3V\nY5A+MD3EJOBkO4lDSCyoc4oTMNEz9ZcFU7jcyP4kga6f6+0TMzq5+MsfKjNeAiZ8\ny/U6n0IssoVf7oxojdCewCZB7KSD1rLog3LxEqBiEZ6G7lmhw+3mKD99hQKBgD6O\nPD2uApQ/Tt6hbcWF/FVH4aVbXwiC7noJPIMwD+cmwUJ8wPOZw7+m6Y0a7RftsaAK\nPmYzaMyBHuAOZxJNWXtOLBOZnZHBRT/OqI6FMxaPpMJ8z8+MU0RraZsJYRdOXZm3\nhTkr73v8ZEDgBBpy+a/RJuKVUlNtfD5okU9+ja5dAoGBAN++R0vit2/H5OwTIaut\nngg/iF3ZNgwdg0hu5xNH+OfqbtQelaveZKjrjswc5DfzVkCUbBhbJBgySxUYkLlB\nh+lDF/8EUUZk8GWZifK04KiP0ZoRVX+BAEaY1oQQ+Cxh+5N+ejiu8vmcr2tg9A0I\nmHq6GRXsBofTWuv6q88G49F/\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-account-for-streaming@sacred-woods-342415.iam.gserviceaccount.com",
+  "client_id": "108265271122707573157",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-account-for-streaming%40sacred-woods-342415.iam.gserviceaccount.com"
+}

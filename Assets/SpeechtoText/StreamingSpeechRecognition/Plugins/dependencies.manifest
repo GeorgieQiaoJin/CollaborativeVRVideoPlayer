@@ -1,0 +1,121 @@
+{
+   "name": "plugins-manifest-frostweep-games-ssr",
+   "revision": "1.0.0",
+   "dependencies": [
+      {
+         "name": "Google.Api.CommonProtos",
+         "version": "2.3.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Api.Gax",
+         "version": "3.3.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Api.Gax.Grpc",
+         "version": "3.3.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Api.Gax.Grpc.GrpcCore",
+         "version": "3.3.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Apis.Auth",
+         "version": "1.48.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Apis.Auth.PlatformServices",
+         "version": "1.48.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Apis.Core",
+         "version": "1.48.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Apis",
+         "version": "1.48.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Apis.PlatformServices",
+         "version": "1.48.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Cloud.Speech.V1",
+         "version": "2.2.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.LongRunning",
+         "version": "2.2.0",
+         "target": "net45"
+      },
+      {
+         "name": "Google.Protobuf",
+         "version": "3.15.8",
+         "target": "net45"
+      },
+      {
+         "name": "Grpc.Auth",
+         "version": "2.36.4",
+         "target": "net45"
+      },
+      {
+         "name": "Microsoft.Bcl.AsyncInterfaces",
+         "version": "1.0.0",
+         "target": "net45"
+      },
+      {
+         "name": "Grpc.Core",
+         "version": "2.36.4",
+         "target": "net45"
+      },
+      {
+         "name": "Grpc.Core.Api",
+         "version": "2.36.4",
+         "target": "net45"
+      },
+      {
+         "name": "System.Buffers",
+         "version": "4.4.0",
+         "target": "net45"
+      },
+      {
+         "name": "System.Interactive.Async",
+         "version": "4.4.0",
+         "target": "net45"
+      },
+      {
+         "name": "System.Runtime.CompilerServices.Unsafe",
+         "version": "4.5.2",
+         "target": "net45"
+      },
+      {
+         "name": "System.Memory",
+         "version": "4.5.3",
+         "target": "net45"
+      },
+      {
+         "name": "System.Numerics.Vectors",
+         "version": "4.4.0",
+         "target": "net45"
+      },
+      {
+         "name": "System.Threading.Tasks.Extensions",
+         "version": "4.5.2",
+         "target": "net45"
+      },
+      {
+         "name": "Newtonsoft.Json",
+         "version": "12.0.3",
+         "target": "net45"
+      }
+   ]
+}
